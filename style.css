@@ -1,0 +1,59 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    background-color: rgb(29, 26, 26);
+}
+
+
+.navbar {
+    position: relative;
+
+    color:yellow;
+    display: inline-block;
+    display: flex;
+    width: 80%;
+    margin-left: 50px;
+    
+}
+
+.list {
+    position: relative;
+    top: 325px;
+    color: white;
+    display: flex;
+    padding-top: 15px;
+    list-style: none;
+    display: inline-block;
+    right: 850px;
+    
+}
+
+.list_item {
+    color: white;
+    display: inline-block;
+    margin-left:55px;
+}
+.icon{
+    display: flex;
+    width: 50px;
+    height: 50px;
+}
+.icon2{
+    position: relative;
+    margin-top: 15px;
+    margin-left: 270px;
+    display: flex;
+    width: 20px;
+    height: 20px;
+}
+.icon3{
+    margin-top: 15px;
+    display: flex;
+    width: 20px;
+    height: 20px;
+}
